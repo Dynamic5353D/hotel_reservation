@@ -1,0 +1,44 @@
+/* Add your existing styles here */
+
+/* Background Image */
+body {
+    background: url('h3.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: #000;
+}
+
+/* Style for the table */
+table {
+    width: 80%; /* Adjust width as needed */
+    margin: 20px auto; /* Center the table */
+    border-collapse: collapse;
+    background-color: rgba(255, 255, 255, 0.9); /* White background with transparency for readability */
+    border-radius: 10px;
+}
+
+/* Style for table headers */
+th {
+    background-color: #000; /* Black background */
+    color: white; /* White text color */
+    font-weight: bold; /* Bold text */
+    text-align: center; /* Center text */
+    padding: 10px; /* Adjust padding as needed */
+}
+
+/* Style for table cells */
+td {
+    padding: 8px; /* Adjust padding as needed */
+    text-align: center;
+}
+
+/* Heading style */
+.heading {
+    font-weight: bold; /* Bold text */
+    margin-bottom: 10px; /* Adjust margin as needed */
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+}
+
+/* Add any additional styles as needed */
