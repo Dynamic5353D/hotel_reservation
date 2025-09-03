@@ -45,7 +45,7 @@ A web-based Hotel Management System built using PHP and MySQL, designed specific
 This project is intended **only for internal staff use**, especially receptionists and hotel managers, to handle day-to-day hotel operations digitally. All critical operations like availability updates, reservations, and plan creation are to be managed manually by the employee for accuracy and control.
 
 ## 🙋‍♂️ Author
-SUBRAMANIAN K  
+RAGUL P  
 Final Year Information Technology Student  
 Passionate about developing real-world solutions using technology.
 
